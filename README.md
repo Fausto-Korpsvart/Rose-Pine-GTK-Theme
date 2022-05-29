@@ -1,4 +1,11 @@
-# Rosé-Pine-GKT-Theme
+# # Rosé Pine GKT Theme
+
+---
+
+![Rosé Pine Main](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/screenshots/01-Rose-Pine.png)
+**Rosé Pine Main**
+![Rosé Pine Moon](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/screenshots/02-Rose-Pine-Moon.png)
+**Rosé Pine Moon**
 
 ---
 
