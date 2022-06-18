@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Graphite-dark
-Comment=An Flat Gtk+ theme based on Elegant Design
+Name=Rosé_Pine_Moon
+Comment=An elegant GTK theme with the 'Rosé Pine Moon' colour palette, and based on '@Vinceliuice's Graphite' GTK theme.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Graphite-dark
-MetacityTheme=Graphite-dark
-IconTheme=Tela-circle-dark
-CursorTheme=Graphite-cursors
+GtkTheme=Rosé_Pine_Moon
+MetacityTheme=Rosé_Pine_Moon
+IconTheme=Rosé_Pine_Moon_Icons
+CursorTheme=Rosé_Pine
 ButtonLayout=close,minimize,maximize:menu
