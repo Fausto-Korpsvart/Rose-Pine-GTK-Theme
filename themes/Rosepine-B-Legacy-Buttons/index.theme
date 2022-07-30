@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rosé_Pine
+Comment=An elegant GTK theme with the 'Rosé Pine' colour palette, and based on '@Vinceliuice's Graphite' GTK theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Rosé_Pine
+MetacityTheme=Rosé_Pine
+IconTheme=Rosé_Pine_Icons
+CursorTheme=Rosé_Pine
+ButtonLayout=close,minimize,maximize:menu
