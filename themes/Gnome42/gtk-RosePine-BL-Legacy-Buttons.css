@@ -115,8 +115,8 @@ windowcontrols {
 
 windowcontrols.start:not(.empty):dir(ltr),
 windowcontrols.end:not(.empty):dir(rtl) {
-  margin-right: 6px;
-  margin-left: 3px;
+  margin-left: 6px;
+  margin-right: 3px;
 }
 
 windowcontrols.start:not(.empty):dir(rtl),
@@ -129,7 +129,7 @@ windowcontrols button:not(.suggested-action):not(.destructive-action) {
   min-height: 24px;
   min-width: 24px;
   padding: 0;
-  margin: 0 3px;
+  margin: 0 2px;
   border-radius: 9999px;
 }
 
@@ -402,6 +402,11 @@ popover.background.touch-selection,
 popover.background.magnifier {
   background-color: transparent;
 }
+
+magnifier {
+  background-color: #232136;
+}
+
 switch {
   transition: all 75ms cubic-bezier(0, 0, 0.2, 1);
   margin: 6px 0;

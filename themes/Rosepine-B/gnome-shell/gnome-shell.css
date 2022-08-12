@@ -2611,11 +2611,11 @@ StEntry StLabel.hint-text,
   text-shadow: none;
   border-radius: 6px;
   margin: 0 6px;
-  font-weight: normal;
+  font-weight: 500;
 }
 
 .popup-menu .popup-menu-item:checked {
-  font-weight: normal;
+  font-weight: 500;
   border: none;
   box-shadow: none;
   color: rgba(0, 0, 0, 0.87) !important;
@@ -2626,7 +2626,7 @@ StEntry StLabel.hint-text,
 .popup-menu .popup-menu-item:checked:focus,
 .popup-menu .popup-menu-item:checked:hover,
 .popup-menu .popup-menu-item.selected:checked {
-  color: rgba(0, 0, 0, 0.87) !important;
+  color: rgba(0, 0, 0, 1) !important;
   background-color: rgba(250, 243, 237, 0.9) !important;
 }
 
@@ -3143,6 +3143,7 @@ StScrollBar StButton#hhandle:active {
 .tile-preview {
   background-color: rgba(40, 38, 52, 0.5);
   border: 1px solid #faf4ed;
+  border-radius: 12px;
 }
 
 .tile-preview-left.on-primary {

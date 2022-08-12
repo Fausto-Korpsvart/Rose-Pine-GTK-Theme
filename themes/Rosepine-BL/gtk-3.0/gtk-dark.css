@@ -23019,8 +23019,16 @@ box.vertical headerbar {
   background-color: #191724;
 }
 
-headerbar > box.left,
-headerbar > box.right {
+.nautilus-window headerbar > box.horizontal.left {
+  padding: 0 6px;
+  padding-right: 60px;
+}
+
+headerbar > box.left {
+  padding: 0 12px;
+}
+
+headerbar > box.right{
   padding: 0 3px;
 }
 
@@ -26455,14 +26463,15 @@ decoration:backdrop {
 
 tooltip.csd decoration {
   border-radius: 12px;
-  border: 1px solid rgba(224, 222, 244, 0.2);
-  background-color: #393552;
-  background-clip: border-box;
+  box-shadow: none;
+  border: none;
 }
 
 messagedialog.csd decoration {
   border-radius: 12px;
-  border: none;
+  border: 2px solid rgba(224, 222, 244, 0.2);
+  background-color: #232136;
+  background-clip: border-box;
 }
 
 .solid-csd decoration {
@@ -26479,10 +26488,10 @@ messagedialog.csd decoration {
 }
 
 button.titlebutton:not(.suggested-action):not(.destructive-action) {
-  min-height: 14px;
-  min-width: 14px;
+  min-height: 12px;
+  min-width: 12px;
   padding: 0;
-  margin: 0 3px;
+  margin: 0 2px;
 }
 
 button.titlebutton:not(.suggested-action):not(.destructive-action).minimize,
@@ -30323,10 +30332,6 @@ filechooser
   > scrolledwindow
   treeview.frame.view:not(.progressbar):not(.trough) {
   border-radius: 6px;
-}
-
-window.background.csd.unified headerbar {
-  box-shadow: none;
 }
 
 window.background.csd.unified > decoration-overlay {
