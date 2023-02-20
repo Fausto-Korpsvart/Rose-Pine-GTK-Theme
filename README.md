@@ -13,7 +13,7 @@
 > With support also for the desktop environments Cinnamon and XFCE.<br />
 > You can check **Reddit:** [r/unixporn](https://www.reddit.com/r/unixporn/) to get some ideas.
 
-![Rosé Pine Main](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/screenshots/01-Rose-Pine.png)
+![Rosé Pine Main](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/extra/screenshots/Ros%C3%A9Pine-Rounded-Buttons.png)
 
 ## Installing Themes
 
