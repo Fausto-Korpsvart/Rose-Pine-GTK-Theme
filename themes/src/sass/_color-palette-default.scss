@@ -1,0 +1,73 @@
+// Rosepine Default Theme Color Palette
+
+// Red
+$red-light: #b4637a;
+$red-dark: #eb6f92;
+
+// Pink
+$pink-light: #d7827e;
+$pink-dark: #ebbcba;
+
+// Purple
+$purple-light: #907aa9;
+$purple-dark: #c4a7e7;
+
+// Blue
+$blue-light: #56949f;
+$blue-dark: #9ccfd8;
+
+// Teal
+$teal-light: #118c74;
+$teal-dark: #1abc9c;
+
+// Cyan
+$cyan-light: #007197;
+$cyan-dark: #7dcfff;
+
+// Green
+$green-light: #286983;
+$green-dark: #31748f;
+
+// Yellow
+$yellow-light: #ea9d34;
+$yellow-dark: #f6c177;
+
+// Orange
+$orange-light: #b15c00;
+$orange-dark: #ff9e64;
+
+// Grey
+$grey-050: #fffaf3;
+$grey-100: #f2e9e1;
+$grey-150: #f4ede8;
+$grey-200: #dfdad9;
+$grey-250: #c4c1d7;
+$grey-300: #ada8c7;
+$grey-350: #958fb7;
+$grey-400: #7e7aa7;
+$grey-450: #685f95;
+$grey-500: #56507c;
+$grey-550: #4e4870;
+$grey-600: #454064;
+$grey-650: #3c3857;
+$grey-700: #34304b;
+$grey-750: #2b283e;
+$grey-800: #232032;
+$grey-850: #21202e;
+$grey-900: #111019;
+$grey-950: #09080c;
+
+// White
+$white: #faf4ed;
+
+// Black
+$black: #191724;
+
+// Theme
+$default-light: $blue-light;
+$default-dark: $blue-dark;
+
+// Button
+$button-close: if($topbar == 'light', #b4637a, #eb6f92);
+$button-max: if($topbar == 'light', #286983, #31748f);
+$button-min: if($topbar == 'light', #ea9d34, #f6c177);

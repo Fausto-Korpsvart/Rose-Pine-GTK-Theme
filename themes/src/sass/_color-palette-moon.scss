@@ -1,0 +1,73 @@
+// Rosepine Moon Theme Color Palette
+
+// Red
+$red-light: #b4637a;
+$red-dark: #eb6f92;
+
+// Pink
+$pink-light: #d7827e;
+$pink-dark: #ea9a97;
+
+// Purple
+$purple-light: #907aa9;
+$purple-dark: #c4a7e7;
+
+// Blue
+$blue-light: #56949f;
+$blue-dark: #9ccfd8;
+
+// Teal
+$teal-light: #118c74;
+$teal-dark: #1abc9c;
+
+// Cyan
+$cyan-light: #007197;
+$cyan-dark: #7dcfff;
+
+// Green
+$green-light: #286983;
+$green-dark: #3e8fb0;
+
+// Yellow
+$yellow-light: #ea9d34;
+$yellow-dark: #f6c177;
+
+// Orange
+$orange-light: #b15c00;
+$orange-dark: #ff9e64;
+
+// Grey
+$grey-050: #fffaf3;
+$grey-100: #f2e9e1;
+$grey-150: #f4ede8;
+$grey-200: #dfdad9;
+$grey-250: #c2c0d8;
+$grey-300: #aaa8c9;
+$grey-350: #928db9;
+$grey-400: #8581b1;
+$grey-450: #7974aa;
+$grey-500: #635d98;
+$grey-550: #524e7e;
+$grey-600: #4a4672;
+$grey-650: #423e65;
+$grey-700: #3a3659;
+$grey-750: #312f4c;
+$grey-800: #211f33;
+$grey-850: #191726;
+$grey-900: #101019;
+$grey-950: #08080d;
+
+// White
+$white: #faf4ed;
+
+// Black
+$black: #232136;
+
+// Theme
+$default-light: $blue-light;
+$default-dark: $blue-dark;
+
+// Button
+$button-close: if($topbar == 'light', #b4637a, #eb6f92);
+$button-max: if($topbar == 'light', #286983, #3e8fb0);
+$button-min: if($topbar == 'light', #ea9d34, #f6c177);
