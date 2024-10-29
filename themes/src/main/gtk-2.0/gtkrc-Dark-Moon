@@ -12,19 +12,19 @@
 # order to not mess up the dark theme.
 
 # Text/base
-gtk-color-scheme = "text_color:#E9E9ED\nbase_color:#222436"
+gtk-color-scheme = "text_color:#FAf4ED\nbase_color:#232136"
 # Foreground/background
-gtk-color-scheme = "fg_color:#E9E9ED\nbg_color:#222436"
+gtk-color-scheme = "fg_color:#FAf4ED\nbg_color:#232136"
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#E9E9ED\nselected_bg_color:#2E7DE9"
+gtk-color-scheme = "selected_fg_color:#FAf4ED\nselected_bg_color:#9CCFD8"
 # Titlebar foreground/background
-gtk-color-scheme = "titlebar_fg_color:#E9E9ED\ntitlebar_bg_color:#292E42"
+gtk-color-scheme = "titlebar_fg_color:#FAf4ED\ntitlebar_bg_color:#232032"
 # Menus
-gtk-color-scheme = "menu_color:#323449"
+gtk-color-scheme = "menu_color:#34304B"
 # Tooltips foreground/background
-gtk-color-scheme = "tooltip_fg_color:#E9E9ED\ntooltip_bg_color:#414868"
+gtk-color-scheme = "tooltip_fg_color:#FAf4ED\ntooltip_bg_color:#454064"
 # Links
-gtk-color-scheme = "link_color:#86E1FC\nvisited_link_color:#C099FF"
+gtk-color-scheme = "link_color:#56949F\nvisited_link_color:#C4A7E7"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1

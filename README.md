@@ -14,10 +14,10 @@
 > A GTK theme based on the colours of [Rosé Pine Community](https://github.com/rose-pine) great theme: [Rosé Pine for Neovim](https://github.com/rose-pine/neovim),
 > the [VinceLiuice's](https://github.com/vinceliuice) awesome: [Magnetic GTK theme](https://github.com/vinceliuice/Magnetic-gtk-theme)
 > and the creativity of [Gusbemacbe's](https://github.com/gusbemacbe): [Suru Plus Icon Theme](https://github.com/gusbemacbe/suru-plus).<br>
-> 
+>
 > The theme is more focused on the Gnome Desktop, but supports Cinnamon, XFCE, Mate, etc. with generic styles.
 > It's great to combine in your TWMs like: XmonadWM, AwesomeWM, BSPWM, etc...
-> 
+>
 > You can check **Reddit:** [r/unixporn](https://www.reddit.com/r/unixporn/) to get some ideas.
 
 ![Rosé Pine Main](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/extra/screenshots/Ros%C3%A9Pine-Rounded-Buttons.png)
@@ -132,23 +132,22 @@ The `./install.sh` allows some specific options like:
 -h, --help              Show help
 ```
 
-## CLARIFYING SOME DOUBTS
+### CLARIFYING SOME DOUBTS
 
 This is just to clarify doubts about the abbreviations of the Themes, as many found the names confusing.
+| Abbreviation example | Explanation of abbreviations |
+| -------------------- | ------------------------------------------------- |
+| Theme-Name-B-MB      | `Bordered` theme and window `macOS Buttons`       |
+| Theme-Name-B-LB      | `Bordered` theme and window `Legacy Buttons`      |
+| Theme-Name-B-GS      | `Floating` and `Bordered` theme for `Gnome Shell` |
+| Theme-Name-BL-MB     | `Borderless` Theme and window `macOS Buttons`     |
+| Theme-Name-BL-LB     | `Borderless` Theme and window `Legacy Buttons`    |
+| Theme-Name-BL-GS     | `Borderless` Theme decoration for `Gnome Shell`   |
 
-| Abbreviation example | Explanation of abbreviations                                   |
-| -------------------- | -------------------------------------------------------------- |
-| Theme-Name-B-MB      | Theme with `Border` decoration and `macOS Buttons` in windows  |
-| Theme-Name-B-LB      | Theme with `Border` decoration and `Legacy Buttons` in windows |
-| Theme-Name-B-GS      | Theme with `Border` decoration for `Gnome Shell`               |
-| Theme-Name-BL-MB     | Theme `Borderless` decoration and `macOS Buttons` in windows   |
-| Theme-Name-BL-LB     | Theme `Borderless` decoration and `Legacy Buttons` in windows  |
-| Theme-Name-BL-GS     | Theme `Borderless` decoration for `Gnome Shell`                |
+### LOOKING FOR OTHER THEMES WITH NEOVIM COLOUR SCHEMES?
 
-## More Themes with Neovim colour schemes?
-
-| Neovim Colorschemes for GTK | GitHub                                                             | Pling                                       |
-| --------------------------- | ------------------------------------------------------------------ | ------------------------------------------- |
+| Neovim Colorschemes for GTK | GitHub      | Pling     |
+| --------------------------- | ----------- | --------- |
 | Catppuccin GTK Theme        | [Source](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) | [Package](https://www.pling.com/p/1715554/) |
 | Everforest GTK Theme        | [Source](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme) | [Package](https://www.pling.com/p/1695467/) |
 | Gruvbox GTK Theme           | [Source](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)    | [Package](https://www.pling.com/p/1681313/) |
