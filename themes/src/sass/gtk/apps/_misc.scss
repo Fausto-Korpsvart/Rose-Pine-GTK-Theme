@@ -479,3 +479,43 @@ window.background.csd {
 		}
 	}
 }
+
+dialog-host > floating-sheet > sheet > widget.response-area {
+	padding: 6px !important;
+}
+
+//
+// KiCad / SLADE
+//
+
+window.background:not(.csd):not(.solid-csd) {
+	> button:not(:hover):not(:active):not(:checked):not(:disabled):not(.flat) {
+		// Why this ?
+		/* background-color: if($variant == 'light', $grey-100, $grey-900); */
+		background-color: $background;
+	}
+}
+
+//
+// FileZilla
+//
+
+window.background:not(.csd) {
+	> box
+		> widget
+		> widget
+		> widget
+		> widget
+		> widget
+		> widget
+		> widget
+		> scrolledwindow {
+		entry:focus {
+			background-color: if(
+				$variant == 'light',
+				mix(black, $background, 5%),
+				mix(white, $background, 5%)
+			);
+		}
+	}
+}
