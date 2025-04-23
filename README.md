@@ -9,8 +9,6 @@
   <img alt="GNU Licence" src='https://img.shields.io/github/license/Fausto-Korpsvart/Rose-Pine-GTK-Theme?style=for-the-badge&logo=GNU&label=License&color=bd0000&logoColor=white'/>
 </p>
 
-> [!NOTE]
-> Description
 > A GTK theme based on the colours of [Rosé Pine Community](https://github.com/rose-pine) great theme: [Rosé Pine for Neovim](https://github.com/rose-pine/neovim),
 > the [VinceLiuice's](https://github.com/vinceliuice) awesome: [Magnetic GTK theme](https://github.com/vinceliuice/Magnetic-gtk-theme)
 > and the creativity of [Gusbemacbe's](https://github.com/gusbemacbe): [Suru Plus Icon Theme](https://github.com/gusbemacbe/suru-plus).<br>
