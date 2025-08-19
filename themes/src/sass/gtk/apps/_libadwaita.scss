@@ -26,7 +26,7 @@
 	background-color: if($variant == 'light', $grey-150, $grey-900);
 
 	@if $colorscheme == 'moon' {
-		background-color: if($variant == 'light', $grey-150, $grey-900);
+		background-color: if($variant == 'light', $grey-150, $grey-850);
 	}
 
 	color: on($background);
