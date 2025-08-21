@@ -3665,7 +3665,6 @@ separator {
  * Lists *
  *********/
 
-// $list-row: if($variant == 'light', rgba($white, 0.75), rgba($white, 0.08));
 $list-row: if($variant == 'light', rgba($base, 0.4), $fill);
 
 %circular_list {
