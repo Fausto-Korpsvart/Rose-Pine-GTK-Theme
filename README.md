@@ -10,9 +10,9 @@
 </p>
 
 A GTK theme based on the colours of [Rosé Pine Community](https://github.com/rose-pine) great theme: [Rosé Pine for Neovim](https://github.com/rose-pine/neovim) <br>
-the [VinceLiuice's](https://github.com/vinceliuice) awesome: [Magnetic GTK theme](https://github.com/vinceliuice/Magnetic-gtk-theme), and the creativity of [Gusbemacbe's](https://github.com/gusbemacbe): [Suru Plus Icon Theme](https://github.com/gusbemacbe/suru-plus).
+the [VinceLiuice's](https://github.com/vinceliuice) Awesome GTK Themes and the creativity of [Gusbemacbe's](https://github.com/gusbemacbe): [Suru Plus Icon Theme](https://github.com/gusbemacbe/suru-plus).
 
-![Rosé Pine Main](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/extra/screenshots/Ros%C3%A9Pine-Rounded-Buttons.png)
+![Rosé Pine](https://raw.githubusercontent.com/Fausto-Korpsvart/Rose-Pine-GTK-Theme/main/extra/screenshots/RosePine.png)
 
 > [!NOTE]
 > The theme is more focused on the Gnome Desktop, but supports Cinnamon, XFCE, Mate, etc. with generic styles.
